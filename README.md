@@ -69,11 +69,6 @@ expertise:
   - Metodologias Ágeis (Scrum)
   - Gestão de Projetos
 
-currently_learning:
-  - Clean Architecture
-  - Design Patterns
-  - Cloud Computing
-
 hobbies:
   - ☕ Transformo café em código
   - 📚 Sempre estudando algo novo
@@ -110,14 +105,12 @@ hobbies:
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ### **Frontend Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Database Management**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192? style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **Version Control & Tools**
@@ -141,17 +134,7 @@ hobbies:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdaiasFellipe&layout=compact&langs_count=8&theme=tokyonight&bg_color=1a1b27&title_color=FF6B35&text_color=c3cad5&icon_color=FF6B35&border_color=1B4965&border_radius=10"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OdaiasFellipe&theme=tokyonight&background=1a1b27&border=1B4965&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=CAE9FF&border_radius=10" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=OdaiasFellipe&bg_color=1a1b27&color=CAE9FF&line=FF6B35&point=FFFFFF&border_radius=10&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OdaiasFellipe&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&border_color=1B4965" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -171,17 +154,6 @@ hobbies:
 
 ---
 
-## 📈 **Contribution Activity**
-
-<div align="center">
-  
-<!--START_SECTION:activity-->
-  
-<img src="https://raw.githubusercontent.com/OdaiasFellipe/OdaiasFellipe/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 💼 **Experiência & Habilidades**
 
@@ -247,8 +219,6 @@ mindmap
 ```diff
 + "A tecnologia move o mundo, mas são as pessoas que fazem a diferença."
 ```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor. %20When%20you%20have%20to%20explain%20it,%20it's%20bad. &author=Cory%20House" alt="Random Dev Quote"/>
 
 </div>
 
